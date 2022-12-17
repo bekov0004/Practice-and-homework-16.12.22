@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\bin\Debug\net7.0\Сalculator.exe
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\bin\Debug\net7.0\Сalculator.deps.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\bin\Debug\net7.0\Сalculator.runtimeconfig.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\bin\Debug\net7.0\Сalculator.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\bin\Debug\net7.0\Сalculator.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\refint\Сalculator.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\Сalculator.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Сalculator\obj\Debug\net7.0\ref\Сalculator.dll

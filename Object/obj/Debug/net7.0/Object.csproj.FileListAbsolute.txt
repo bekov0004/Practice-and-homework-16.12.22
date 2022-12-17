@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\bin\Debug\net7.0\Object.exe
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\bin\Debug\net7.0\Object.deps.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\bin\Debug\net7.0\Object.runtimeconfig.json
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\bin\Debug\net7.0\Object.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\bin\Debug\net7.0\Object.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\refint\Object.dll
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.pdb
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\Object.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\CsharpPractices\Day 3 16.12.22\Object\obj\Debug\net7.0\ref\Object.dll
